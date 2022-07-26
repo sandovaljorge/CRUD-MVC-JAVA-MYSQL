@@ -1,0 +1,5 @@
+com\latin\colegio\Resource\Conexion.class
+com\latin\colegio\Colegio.class
+com\latin\colegio\Controller\Controller.class
+com\latin\colegio\Service\IAlumno.class
+com\latin\colegio\Model\Alumno.class
